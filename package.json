@@ -1,0 +1,11 @@
+{
+  "name": "bootswatch-assets",
+  "version": "3.3.4",
+  "description": "bootswatch 'assets' directory for bower.",
+  "author": "M_Ishikawa <ishikawam@nifty.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootswatch": "3.3.4",
+    "gulp": "^3.8.11"
+  }
+}
