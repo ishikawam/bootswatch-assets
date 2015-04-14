@@ -1,6 +1,6 @@
 {
   "name": "bootswatch-assets",
-  "version": "3.3.4",
+  "version": "3.3.4+1",
   "authors": [
     "M_Ishikawa <ishikawam@nifty.com>"
   ],
@@ -12,8 +12,8 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "gulpfile.js"
+    "node_modules/",
+    "gulpfile.js",
+    "package.json"
   ]
 }

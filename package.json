@@ -1,11 +1,7 @@
 {
   "name": "bootswatch-assets",
-  "version": "3.3.4",
+  "version": "3.3.4+1",
   "description": "bootswatch 'assets' directory for bower.",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "M_Ishikawa <ishikawam@nifty.com>",
   "license": "MIT",
   "devDependencies": {
