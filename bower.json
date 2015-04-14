@@ -1,6 +1,6 @@
 {
   "name": "bootswatch-assets",
-  "version": "3.3.4+1",
+  "version": "3.3.4+2",
   "authors": [
     "M_Ishikawa <ishikawam@nifty.com>"
   ],
@@ -14,6 +14,7 @@
   "ignore": [
     "node_modules/",
     "gulpfile.js",
-    "package.json"
+    "package.json",
+    "bower.json"
   ]
 }
