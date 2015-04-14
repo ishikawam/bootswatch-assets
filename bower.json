@@ -1,0 +1,19 @@
+{
+  "name": "bootswatch-assets",
+  "version": "3.3.4",
+  "authors": [
+    "M_Ishikawa <ishikawam@nifty.com>"
+  ],
+  "description": "bootswatch 'assets' directory for bower.",
+  "keywords": [
+    "bootswatch",
+    "bootstrap",
+    "assets"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "gulpfile.js"
+  ]
+}
